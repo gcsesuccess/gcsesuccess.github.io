@@ -1,0 +1,8 @@
+title: GCSE Success
+domain: www.gcsesuccess.org
+defaults:
+- scope:
+    path: ""
+    type: posts
+  values:
+    author: GCSE Success
