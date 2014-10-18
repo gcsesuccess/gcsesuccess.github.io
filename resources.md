@@ -20,13 +20,13 @@ Revision guides:
 
 Online resources:
 
-- [BBC GCSE Bitesize](http://www.bbc.co.uk/schools/gcsebitesize/maths/)
-- [Developing one-to-one tuition](https://www.education.gov.uk/publications/eOrderingDownload/8067-DCSF-Developing%20One%20to%20One-TUTORS.pdf) (Government guidance)
+- [BBC Bitesize](http://www.bbc.co.uk/education/subjects/z6pfb9q)
 - [TES collection Maths GCSE revision](http://www.tes.co.uk/article.aspx?storyCode=6074562)
-- [MathsRevision](http://www.mathsrevision.net/gcse/index.php)
+- [MathsRevision](http://www.mathsrevision.net/gcse-maths-revision)
 - [StudyMaths.co.uk](http://studymaths.co.uk/)
-- [Khan Academy](http://www.khanacademy.org/)
+- [Khan Academy](https://www.khanacademy.org/math)
 - [How to get an A in maths GCSE](http://www.mathsdoctor.co.uk/blog/how-to-get-an-a-in-maths-gcse/) (Maths Doctor)
+- [Developing one-to-one tuition](https://www.education.gov.uk/publications/eOrderingDownload/8067-DCSF-Developing%20One%20to%20One-TUTORS.pdf) (Government guidance)
 
 References:
 
@@ -41,3 +41,14 @@ Mobile apps:
 
 - [Android](https://play.google.com/store/search?q=gcse+maths&c=apps&price=1)
 - [iPhone/iPad](https://www.google.co.uk/search?q=gcse+maths+site%3Aitunes.apple.com)
+
+### English
+
+Online resources:
+
+- [Teachit](http://www.teachit.co.uk/)
+- [BBC Bitesize](http://www.bbc.co.uk/education/subjects/zr9d7ty)
+- [Englishbiz](http://www.englishbiz.co.uk/)
+- [TES collection Maths GCSE revision](http://www.tes.co.uk/article.aspx?storyCode=6078616)
+
+More coming soon!
